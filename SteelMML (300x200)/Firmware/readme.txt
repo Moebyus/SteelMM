@@ -4,4 +4,4 @@ Existen varias configuraciones para un mismo modelo de impresoras, las cuales la
 
 Impresora- Controladora(Ramps/Rumba)Extrusor(MK7/Wades/Mk8direct)_EjeZ(Husillo/M5/M8)Driver (drv88/a49)_LCD(Full/Smart).hex
 
-Ejemplo: SteelMML-Ramps_MK7_HuA49_Full.hex
+Ejemplo: SteelMML-Ramps_EMK7_ZHuA49_LCDFull.hex
